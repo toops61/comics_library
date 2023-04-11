@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/comics_library/static/css/main.e9be89e9.css",
-    "main.js": "/comics_library/static/js/main.3683201b.js",
+    "main.css": "/comics_library/static/css/main.4a9994b8.css",
+    "main.js": "/comics_library/static/js/main.5e35f2fe.js",
     "static/media/fa-solid-900.ttf": "/comics_library/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
+    "static/media/marvel80.jpeg": "/comics_library/static/media/marvel80.47bdbe1c42ee4b0974c7.jpeg",
     "static/media/fa-brands-400.ttf": "/comics_library/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
     "static/media/poster2.webp": "/comics_library/static/media/poster2.7906779b4670e25128d3.webp",
     "static/media/fa-solid-900.woff2": "/comics_library/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
@@ -16,11 +17,11 @@
     "static/media/fa-regular-400.ttf": "/comics_library/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
     "static/media/fa-regular-400.woff2": "/comics_library/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
     "index.html": "/comics_library/index.html",
-    "main.e9be89e9.css.map": "/comics_library/static/css/main.e9be89e9.css.map",
-    "main.3683201b.js.map": "/comics_library/static/js/main.3683201b.js.map"
+    "main.4a9994b8.css.map": "/comics_library/static/css/main.4a9994b8.css.map",
+    "main.5e35f2fe.js.map": "/comics_library/static/js/main.5e35f2fe.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9be89e9.css",
-    "static/js/main.3683201b.js"
+    "static/css/main.4a9994b8.css",
+    "static/js/main.5e35f2fe.js"
   ]
 }
