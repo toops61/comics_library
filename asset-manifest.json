@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/comics_library/static/css/main.ba0eb6cd.css",
-    "main.js": "/comics_library/static/js/main.7e0e0424.js",
+    "main.css": "/comics_library/static/css/main.193eaff3.css",
+    "main.js": "/comics_library/static/js/main.ee3c4870.js",
     "static/media/fa-solid-900.ttf": "/comics_library/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
     "static/media/marvel80.webp": "/comics_library/static/media/marvel80.1ee187d4668ea437f3c5.webp",
     "static/media/fa-brands-400.ttf": "/comics_library/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
@@ -16,12 +16,13 @@
     "static/media/Dosis-ExtraLight.ttf": "/comics_library/static/media/Dosis-ExtraLight.46ef6771a45c4d8f2e38.ttf",
     "static/media/fa-regular-400.ttf": "/comics_library/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
     "static/media/fa-regular-400.woff2": "/comics_library/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
+    "static/media/bdgest_mini.webp": "/comics_library/static/media/bdgest_mini.42410b43b240ac64e0e4.webp",
     "index.html": "/comics_library/index.html",
-    "main.ba0eb6cd.css.map": "/comics_library/static/css/main.ba0eb6cd.css.map",
-    "main.7e0e0424.js.map": "/comics_library/static/js/main.7e0e0424.js.map"
+    "main.193eaff3.css.map": "/comics_library/static/css/main.193eaff3.css.map",
+    "main.ee3c4870.js.map": "/comics_library/static/js/main.ee3c4870.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba0eb6cd.css",
-    "static/js/main.7e0e0424.js"
+    "static/css/main.193eaff3.css",
+    "static/js/main.ee3c4870.js"
   ]
 }
