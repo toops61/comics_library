@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/comics_library/static/css/main.51e38395.css",
-    "main.js": "/comics_library/static/js/main.edb722bb.js",
+    "main.css": "/comics_library/static/css/main.9e54f7f2.css",
+    "main.js": "/comics_library/static/js/main.f6e4bff8.js",
     "static/media/fa-solid-900.ttf": "/comics_library/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
     "static/media/marvel80.webp": "/comics_library/static/media/marvel80.1ee187d4668ea437f3c5.webp",
     "static/media/fa-brands-400.ttf": "/comics_library/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
@@ -16,13 +16,14 @@
     "static/media/Dosis-ExtraLight.ttf": "/comics_library/static/media/Dosis-ExtraLight.46ef6771a45c4d8f2e38.ttf",
     "static/media/fa-regular-400.ttf": "/comics_library/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
     "static/media/fa-regular-400.woff2": "/comics_library/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
+    "static/media/Captain_America_shield_mini.webp": "/comics_library/static/media/Captain_America_shield_mini.f5a8bc43d4cdca3c67f6.webp",
     "static/media/bdgest_mini.webp": "/comics_library/static/media/bdgest_mini.42410b43b240ac64e0e4.webp",
     "index.html": "/comics_library/index.html",
-    "main.51e38395.css.map": "/comics_library/static/css/main.51e38395.css.map",
-    "main.edb722bb.js.map": "/comics_library/static/js/main.edb722bb.js.map"
+    "main.9e54f7f2.css.map": "/comics_library/static/css/main.9e54f7f2.css.map",
+    "main.f6e4bff8.js.map": "/comics_library/static/js/main.f6e4bff8.js.map"
   },
   "entrypoints": [
-    "static/css/main.51e38395.css",
-    "static/js/main.edb722bb.js"
+    "static/css/main.9e54f7f2.css",
+    "static/js/main.f6e4bff8.js"
   ]
 }
