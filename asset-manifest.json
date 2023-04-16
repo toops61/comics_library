@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/comics_library/static/css/main.f6eff6a1.css",
+    "main.css": "/comics_library/static/css/main.7c72f479.css",
     "main.js": "/comics_library/static/js/main.8a38bc06.js",
     "static/media/fa-solid-900.ttf": "/comics_library/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
     "static/media/marvel_dark.webp": "/comics_library/static/media/marvel_dark.fa8959f7b650b2856f1c.webp",
@@ -20,11 +20,11 @@
     "static/media/Captain_America_shield_mini.webp": "/comics_library/static/media/Captain_America_shield_mini.f5a8bc43d4cdca3c67f6.webp",
     "static/media/bdgest_mini.webp": "/comics_library/static/media/bdgest_mini.42410b43b240ac64e0e4.webp",
     "index.html": "/comics_library/index.html",
-    "main.f6eff6a1.css.map": "/comics_library/static/css/main.f6eff6a1.css.map",
+    "main.7c72f479.css.map": "/comics_library/static/css/main.7c72f479.css.map",
     "main.8a38bc06.js.map": "/comics_library/static/js/main.8a38bc06.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6eff6a1.css",
+    "static/css/main.7c72f479.css",
     "static/js/main.8a38bc06.js"
   ]
 }
