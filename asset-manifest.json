@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/comics_library/static/css/main.7c72f479.css",
-    "main.js": "/comics_library/static/js/main.8a38bc06.js",
+    "main.css": "/comics_library/static/css/main.deb35e88.css",
+    "main.js": "/comics_library/static/js/main.dbb4c487.js",
+    "static/media/wallpaper.webp": "/comics_library/static/media/wallpaper.bb63aebad9938fd5d950.webp",
+    "static/media/wallpaper2.webp": "/comics_library/static/media/wallpaper2.ad245d4963b4e133d084.webp",
+    "static/media/marvel-characters.webp": "/comics_library/static/media/marvel-characters.af69d713bc3a425f8537.webp",
     "static/media/fa-solid-900.ttf": "/comics_library/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
-    "static/media/marvel_dark.webp": "/comics_library/static/media/marvel_dark.fa8959f7b650b2856f1c.webp",
-    "static/media/marvel80.webp": "/comics_library/static/media/marvel80.1ee187d4668ea437f3c5.webp",
     "static/media/fa-brands-400.ttf": "/comics_library/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
-    "static/media/poster2.webp": "/comics_library/static/media/poster2.7906779b4670e25128d3.webp",
     "static/media/fa-solid-900.woff2": "/comics_library/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
     "static/media/fa-brands-400.woff2": "/comics_library/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
     "static/media/Dosis-Regular.ttf": "/comics_library/static/media/Dosis-Regular.16c5afafe71efb210033.ttf",
@@ -20,11 +20,11 @@
     "static/media/Captain_America_shield_mini.webp": "/comics_library/static/media/Captain_America_shield_mini.f5a8bc43d4cdca3c67f6.webp",
     "static/media/bdgest_mini.webp": "/comics_library/static/media/bdgest_mini.42410b43b240ac64e0e4.webp",
     "index.html": "/comics_library/index.html",
-    "main.7c72f479.css.map": "/comics_library/static/css/main.7c72f479.css.map",
-    "main.8a38bc06.js.map": "/comics_library/static/js/main.8a38bc06.js.map"
+    "main.deb35e88.css.map": "/comics_library/static/css/main.deb35e88.css.map",
+    "main.dbb4c487.js.map": "/comics_library/static/js/main.dbb4c487.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c72f479.css",
-    "static/js/main.8a38bc06.js"
+    "static/css/main.deb35e88.css",
+    "static/js/main.dbb4c487.js"
   ]
 }
