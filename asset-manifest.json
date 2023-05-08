@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/comics_library/static/css/main.9755f7bb.css",
-    "main.js": "/comics_library/static/js/main.c4c75d65.js",
+    "main.css": "/comics_library/static/css/main.ee44ee7a.css",
+    "main.js": "/comics_library/static/js/main.fce04b8f.js",
     "static/media/wallpaper.webp": "/comics_library/static/media/wallpaper.bb63aebad9938fd5d950.webp",
     "static/media/wallpaper2.webp": "/comics_library/static/media/wallpaper2.ad245d4963b4e133d084.webp",
     "static/media/marvel-characters.webp": "/comics_library/static/media/marvel-characters.af69d713bc3a425f8537.webp",
@@ -20,11 +20,11 @@
     "static/media/Captain_America_shield_mini.webp": "/comics_library/static/media/Captain_America_shield_mini.f5a8bc43d4cdca3c67f6.webp",
     "static/media/bdgest_mini.webp": "/comics_library/static/media/bdgest_mini.42410b43b240ac64e0e4.webp",
     "index.html": "/comics_library/index.html",
-    "main.9755f7bb.css.map": "/comics_library/static/css/main.9755f7bb.css.map",
-    "main.c4c75d65.js.map": "/comics_library/static/js/main.c4c75d65.js.map"
+    "main.ee44ee7a.css.map": "/comics_library/static/css/main.ee44ee7a.css.map",
+    "main.fce04b8f.js.map": "/comics_library/static/js/main.fce04b8f.js.map"
   },
   "entrypoints": [
-    "static/css/main.9755f7bb.css",
-    "static/js/main.c4c75d65.js"
+    "static/css/main.ee44ee7a.css",
+    "static/js/main.fce04b8f.js"
   ]
 }
